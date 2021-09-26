@@ -20,7 +20,7 @@
   in the terminal use the node index.js  command to initiate the program
 
   ## Example
-  ![gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+  ![gif](./assets/gif.gif)
 
   ## Credits
   Greg D'amato
