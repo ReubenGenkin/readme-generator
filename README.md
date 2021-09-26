@@ -5,7 +5,7 @@
  
   ## Description
   This project is a command line program that generates a professional readme for github using inquirer to ask questions. this readme was created using the generator as an example. 
-  
+
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -18,6 +18,10 @@
   downhload project files and npm install.
   ## Usage
   in the terminal use the node index.js  command to initiate the program
+
+  ## Example
+  ![gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
   ## Credits
   Greg D'amato
   ## Tests
